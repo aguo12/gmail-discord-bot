@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "http-auth": "^4.1.2",
+    "jsdom": "^16.4.0",
+    "node": "^14.11.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.4.17",
+    "opn": "^6.0.0",
+    "request": "^2.88.2"
+  }
+}
